@@ -4,7 +4,7 @@ footer,.store-footer__inner{background-color:#17161c!important;color:white!impor
 iframe{width:100%;height:200px}
 .sticky-product-bar{position:fixed;top:100%;width:100%;z-index:10;left:0;transform:translate(0,-100%)}
 .store-footer h3{color:#f23d5e}
-@media screen and (max-width:500px){#product-129006271{left:-50%}#product-323750460{left:-50%}}
+@media screen and (max-width:500px){#product-129006271{left:-50%}}
 .s-block__title{display:flex!important;justify-content:center!important}
 .s-comments-product{display:flex;justify-content:center;align-items:center;flex-direction:column-reverse}
 .s-block--fixed-banner,.s-block--fixed-banner .container{padding:0!important;margin:0!important}
